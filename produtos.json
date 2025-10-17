@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Conjunto Lingerie Floral",
+    "category": "intimas",
+    "price": 29.9,
+    "tag": "Mais vendido",
+    "img": "/uploads/placeholder.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Calcinha Rendada Pack 3",
+    "category": "intimas",
+    "price": 15.0,
+    "tag": "Kit",
+    "img": "/uploads/placeholder.jpg"
+  }
+]
